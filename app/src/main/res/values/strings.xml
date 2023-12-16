@@ -1,0 +1,501 @@
+<resources>
+    <string name="app_name">De-AfricanKitchen</string>
+
+<!--    most popular section-->
+    <string name="pap_ingredients">750 ml water
+A pinch of salt
+350 g maize meal
+2 T butter
+5 T soya sauce
+5 T teriyaki sauce
+200 g think beef strips
+2 T olive oil
+1 onion, thinly sliced
+2 garlic cloves, crushed
+1 x 10 cm piece ginger, peeled and grated
+Freshly ground black pepper, to taste
+125 ml sweet chilli sauce
+2 spring onions, sliced</string>
+
+    <string name="pap_cookingInstructions">In a medium-sized saucepan, bring the water and salt to a rapid boil. Add half the maize meal, reduce the heat to medium, cover and cook for 8 minutes. Stir the mixture and add the remaining maize meal, a little at a time.
+
+Stir and beat it against the sides of the saucepan with the back of the wooden spoon. This should take about 5 minutes.
+
+Reduce the heat further, cover and cook for 10 to 15 minutes. Add the butter and mix. Remove from the heat and cool slightly.
+
+Press two spoonfuls of pap into each cup of a greased muffin tray to create a basket or cup-like shape. Set aside.
+
+Marinate the beef strips in half the soya and teriyaki sauces for 10 minutes.
+
+In a large frying pan, heat the oil and sauté the onion, garlic and ginger for a minute. Add the marinated beef strips, season with pepper and stir-fry for 3 minutes, or until browned and cooked through.
+
+Add the remaining soya and teriyaki sauces, sweet chilli sauce and spring onion and cook for 2 minutes. Fill the pap baskets and serve immediately.</string>
+
+    <string name="piripiri_Ingredients">1 chicken, about 2kg
+For the piri-piri marinade
+2 dried hot chillies
+100ml red wine vinegar
+6 red chillies
+6 garlic cloves
+2 tsp smoked paprika
+1 tsp dried oregano
+1 tsp dried thyme
+1 tsp golden caster sugar
+2 lemons, juiced</string>
+
+    <string name="piripiri_CookingInstructions">STEP 1
+To make the marinade, tip the dried chillies and the vinegar into a pan and bring to the boil. Remove from the heat and leave the chillies to soak until the vinegar is cold. Put the red chillies, garlic, soaked dried chillies and vinegar in a food processor and blitz. Add the smoked paprika, oregano, thyme, sugar, a pinch of salt and the lemon juice. Blitz again to a paste and set aside.
+
+STEP 2
+Sit the chicken in a shallow dish and use a small knife to score all over with cuts 1cm deep. Make sure you do the legs and the underside. Tip the marinade over the chicken and massage into the cuts. Cover and chill for at least 4 hrs, but overnight would be better.
+
+STEP 3
+When you’re ready to cook, heat oven to 180C/160C fan/gas 4. Roast the chicken for 1 hr, then turn the heat up to 220C/200C fan/gas 7 and cook for a further 30-35 mins until a crust has formed on the outside of the chicken.
+
+STEP 4
+Remove from the oven and leave to rest for 30 mins. Serve with homemade wedges or jacket potatoes, coleslaw, some buttered corn cobs and chilli and mint peas.</string>
+
+    <string name="jollofriceIngredients">5 medium sized Roma tomatoes, roughly chopped
+1 red bell pepper, roughly chopped
+1 medium sized onion, roughly chopped, set aside
+2 scotch bonnet peppers (habanero peppers as they are sometimes called)
+1/4 cup of groundnut oil
+3 tbsp tomato paste
+2 cups of parboiled rice
+2 1/2 cups of chicken stock
+1 tsp salt to taste
+1/2 tsp curry powder
+1/2 tsp thyme
+1 tsp All purpose seasoning
+1 Knorr stock cube
+3 bay leaves
+Water, as needed</string>
+
+    <string name="jollofrice_CookingInstructions">Blend your tomatoes, red pepper, scotch bonnet peppers in a food processor or blender for about 45 seconds, make sure that everything is blended well.
+In a medium sized pot, heat your oil on medium-high heat. Once the oil is heated add the onions you set aside and fry just until they turn golden brown. Once the onions, have turned brown in color add the tomato paste and fry for 2-3 minutes. Then add the blended tomato mixture (reserve about 1/4 cup and set aside) and fry the mixture with the onions and tomato paste for about 30 minutes. Make sure you stir consistently so that the tomato mixture does not burn.
+After 30 minutes, turn the heat down to medium, and add the chicken stock. Mix and add your seasonings (salt, curry powder, thyme, all purpose seasoning, and the Knorr stock cube). Continue to boil for 10 minutes.
+Add the parboiled rice to the pot. Mix it very well with the tomato stew. At this point if you need to add water so that the rice is level with the tomato mixture/chicken stock go ahead and do so. Add the bay leaves, cover the pot, and cook on medium to low heat for 15-30 minutes.
+When the liquid has almost dried up add the remaining tomato stew, cover, and let it cook for another 5-10 minutes heat until the liquid has completely dried up. Turn off the heat, mix thoroughly, and your Jollof Rice is ready to be eaten!</string>
+
+    <string name="egusisoupIngredients">For the Beef and Stock:
+
+1 pound (450g) bone-in or boneless beef chuck roast, cut into 2-inch pieces
+1 medium red onion (about 6 ounces; 175g), thinly sliced
+2 tablespoons ground crayfish (see note)
+2 teaspoons (6g) Diamond Crystal kosher salt, plus more to taste; for table salt use half as much by volume or the same weight
+1/2 teaspoon Nigerian red dry pepper
+For the Egusi Soup:
+
+1 medium red onion (about 6 ounces; 175g), roughly chopped
+1/2 fresh habanero or Scotch bonnet pepper, stemmed (optional)
+2 cups (10 ounces; 300g) ground egusi seeds (see note)
+3/4 cup unrefined red palm oil (5 1/4 ounces; 150g), such as Obiji
+Kosher salt and Nigerian red dry pepper
+1 teaspoon ground crayfish (see note)
+3 1/2 ounces (100g) fresh pumpkin leaves, amaranth greens, or kale, rinsed and finely chopped (see note)
+3 1/2 ounces (100g) fresh waterleaf or spinach, rinsed and finely chopped (see note)
+1 tablespoon finely chopped fresh or dried bitter leaf or fresh dandelion greens (see note)
+</string>
+
+    <string name="egusisoup_CookingInstructions">For the Stock: In a medium pot, combine beef, onion, crayfish, salt, pepper, and 6 1/2 cups water and bring to a boil. Lower heat to maintain a simmer and cook until the stock is slightly reduced and the beef is mostly tender, about 45 minutes (the beef will tenderize further when cooked in the soup). Using a slotted spoon, remove beef and transfer to a medium heatproof bowl; set aside. Reserve stock (you should have about 5 1/2 cups).For the Egusi Soup: In a food processor or countertop blender, process onion, pepper (if using), and 1/4 cup water until smooth. Scrape into a medium bowl and stir in the ground egusi seeds. Add water, 1 tablespoon at a time, until a thick, creamy paste has formed (paste should be viscous and hold its shape). Set aside.
+    In a 4-quart saucepan, heat oil over low heat for 1 minute. Slowly add all of the reserved stock, along with the crayfish, and bring to a gentle simmer. Add paste, 1 heaped teaspoon at a time, to stock. Cover and cook, stirring and gently scraping the bottom of the pot occasionally, until all of the paste is firm and crumbly, about 25 minutes (patches of orange-red palm oil may bubble on top or around the sides).Add reserved beef and stir gently to break up the cooked paste into curds (stirring more or less affects the size of the curds). Season with salt and pepper to taste. Continue to cook until beef is heated through and tender, and some of the orange-red palm oil pools on top, about 10 minutes.
+    Mound pumpkin leaves and waterleaf on top of soup without stirring, then cover and let steam until greens are wilted, about 2 minutes. Stir in wilted greens. Add bitter leaf and cook until soft, about 8 minutes.
+    Divide soup among warmed bowls and serve hot or at room temperature with eba, dodo, or cooked white rice.</string>
+
+    <string name="bonnychowingredients">1 pound chicken thighs or breast cut in bite-sized pieces
+1/2 cup canola or cooking oil
+2-3 Curry leaves
+1 teaspoons minced ginger
+2 teaspoons minced garlic
+1 Tablespoon curry powder or more
+1 medium onion diced
+2 medium tomatoes diced
+1 cinnamon stick
+1 1/2 teaspoon paprika
+3 green cardamom pods lightly crushed
+8 ounce or less potatoes cleaned and cut into cubes
+1 15 ounce can chickpeas rinsed and drained
+½ teaspoon cayenne pepper optional
+11/2 cup or more chicken broth or water
+Salt and pepper to taste</string>
+
+    <string name="bonnychow_CookingInstructions">When ready to cook, heat up large Sauce- pan with oil, and add onions, garlic,ginger, cinnamon stick, curry leaves, cardamom pods and curry powder, stir occasionally for about 2-3 minutes until onions is translucent.
+Add tomatoes followed by chicken, stir and sauté for about 2-3 more minutes. Add chicken stock/ water if necessary to prevent any burns
+Next add chickpeas, potatoes and chicken broth , about 1 1 1/2 cup , add more as needed. Bring to a boil and let it simmer until sauce thickens, it might take about 25 minutes or more
+Adjust for salt, pepper and stew consistency.
+</string>
+
+    <string name="kapentaIngredients">1 lb Dried kapenta fish
+1 Large onion
+1 Large tomato
+4 cloves Garlic
+1 tbsp Olive oil
+Salt and pepper to taste</string>
+
+    <string name="kapentaCookingInstructions">Prepare a large pot of boiling water and place in your kapenta, boil for 15 minutes.
+After 15 minutes, remove your kapenta, pat it dry and then chop into thin chunks ready for frying.
+Finely chop your onion and garlic, and add to a hot frying pan of olive oil, cook until browned.
+Finely chop the tomato and add to the pan along with salt, pepper, groundnut powder and a 1/2 cup of water.
+Add your kapenta to the pan, making sure to immerse it in the sauce. Cover the pan and leave to simmer for 10 minutes on a low heat, stirring half way through.
+Take your fish stew off the heat and leave to rest for 2 minutes to allow the sauce to thicken.
+Your stewed kapenta is now ready to eat, serve with sadza or boiled rice.
+Enjoy!</string>
+
+    <string name="chamboIngredients">4 Tilapia fillets
+lemon juice
+flour
+1 large onion chopped
+2 Tablespoons Malawi curry spice blend
+1 cup water
+1 carrot chopped
+1 green pepper chopped
+1/4 cup fruit chutney </string>
+
+    <string name="chamboCookinginstructions">Clean, salt and sprinkle fillets with lemon juice
+Roll in flour
+Heat about 4 tablespoons of oil in a large frying pan and fry the fillets about 4 minutes per side and remove the fillets.
+In the pan add the chopped onion and fry until translucent (about 5 minutes)
+Mix in 2 Tablespoons of the Malawi curry spice blend and fry with the onions for about 2 minutes
+Add the rest of the curry spice blend along with 1 1/2 cups of water stirring so all the spice blend is nicely incorporated into the water.
+Add in the chopped carrots and green pepper and turn heat to a simmer.
+simmer until the vegetables are soft about 10 minutes
+Add in the fruit chutney and stir
+Place the fillets into the saucepan and make sure they are covered by the gravy.
+Close the lid and let the fish rest in the sauce for a few minutes.
+Plate with lots of the sauce
+Serve with nsima (cornmeal porridge) or rice.
+Enjoy!</string>
+
+    <string name="muambaingredients">3 – 3 1/2 pound chicken cut in pieces
+Juice ½ lemon optional
+1 teaspoon white pepper
+1 teaspoon minced garlic
+½ teaspoon dried thyme
+1 teaspoon salt
+½ teaspoon smoked paprika
+½ teaspoon chicken bouillon powder
+¼ cup canola oil
+¼ cup palm oil
+4-5 garlic minced
+2-3 onions sliced
+2 tomatoes diced
+1 teaspoon white pepper
+1 teaspoon smoked paprika
+Whole hot pepper pierced chili, Scotch bonnet
+½ -1 pound butternut squash cut into large cubes
+18-20 Okra sliced in half
+2 cups or more chicken broth or water
+Salt to taste</string>
+
+    <string name="muambacookinginstructions">
+         Place chicken in a large bowl or saucepan, rub with lemon juice ,
+Then add salt, garlic, thyme, white pepper and chicken bouillon.
+Mix chicken with a spoon or with hands until they are well coated, set aside.
+When ready to cook, heat up large saucepan with palm and canola oil, then add chicken, brown both sides for about 4-5 minutes.
+Add garlic, chili pepper and smoked paprika, stir for about a minute then add onions and tomatoes, sauté 2-3 minutes until onions is translucent.
+Add chicken stock if necessary to prevent any burns
+Next add chicken stock or water (about 2 cups or enough to cover chicken. Add chicken bouillon, and squash. Bring to a boil and let it simmer until sauce thickens, it might take about 20 or more depending on the type of chicken used. Throw in okra, continue cooking until desired texture is reached about 5 minutes or more
+Adjust for salt, pepper and stew consistency.
+Serve warm with Cornmeal mash or rice.
+Tips
+    </string>
+
+    <string name="capeInstructions" >
+        1 1⁄2
+lbs chicken thighs, on the bone (750 g, or use drumsticks and thighs, but don\'t remove the skin)
+salt and pepper, to taste, for the dish
+3⁄4
+cup buttermilk (180 ml)
+2
+tablespoons cilantro, fresh, chopped (30 ml chopped coriander leaves)
+1⁄2
+tablespoon cinnamon, ground (7 ml)
+1
+teaspoon turmeric (5 ml)
+1
+tablespoon cumin, ground (15 ml)
+1
+tablespoon coriander seed, ground (15 ml)
+1
+tablespoon masala (15 ml)
+1
+hot pepper, chopped (1 chilli)
+3⁄4
+cup basmati rice (180 ml)
+4
+ounces lentils, brown, rinsed (125 g)
+oil (for frying)
+1
+large onion, finely chopped
+2 -3
+large potatoes, peeled, chopped into chunks
+2
+cinnamon sticks (or use 1 teaspoon ground cinnamon)
+1
+tablespoon coriander seed, ground (extra to amount mentioned above)
+3
+cardamom pods, slit and seeds removed to use
+1
+tablespoon cumin, ground (extra to amount already mentioned)
+1
+pinch saffron, soaked in a little water (sub with a good pinch turmeric)
+3
+eggs, hard-boiled
+chopped cilantro, to garnish</string>
+
+    <string name="capeCookingInstructions">Preheat oven to 325 deg F/160 deg Celsius.
+Season chicken with salt and pepper. Mix together the buttermilk, cilantro, cinnamon, turmeric, cumin, ground coriander, masala and hot pepper. Pour over chicken pieces and marinate 3 hours or overnight.
+Parboil rice in 2 cups water for 20 minutes, and drain well.
+Simmer lentils in 2 cups water for 20 minutes, and drain well.
+Heat a fair amount of oil in a saucepan, and fry onion and potatoes until softened. Add the cinnamon, ground coriander, cardamom seeds, cumin and saffron (or sub with a good pinch turmeric) and cook, stirring, for a minute. Set aside.
+Layer half the rice, followed by half each of the lentils, and the spiced potatoes and onion in an ovenproof dish. Top with the chicken.
+Repeat the layers with the remaining ingredients, top with saffron/turmeric water, and cover it all with tinfoil and a tight-fitting lid.
+Bake for 1 1/2 - 2 hours or until chicken and rice are cooked through.
+Garnish with quarters of hardboiled eggs and sprinkle with cilantro/coriander leaves.</string>
+
+    <string name="zanzibariIngredients">2 tbsp extra virgin olive oil
+
+1 yellow onion, chopped
+
+1/2 red bell pepper, seeded and chopped
+
+handful of cashews, coarsely chopped (optional)
+
+3 cloves of garlic, minced
+
+1-2" piece of fresh ginger, peeled and grated
+
+1 bay leaf
+
+2 tbsp of Piquant Post Spiced Pilaf blend
+
+2 cups of basmati rice
+
+1 cup (canned) coconut milk
+
+3 cups of low-salt broth (chicken or vegetarian)
+
+salt and pepper to taste (optional)</string>
+
+    <string name="zanzibariCookingInstructions">
+        Prep and chop all vegetables (onion, red pepper, cashews, garlic and ginger) and set aside. Heat a large skillet on Med-High. Add oil to pan.
+
+Once pan is hot, add the onion and red pepper and sauté for 5 mins, stirring occasionally. Add the cashews, ginger, garlic, bay leaf and Pilaf Spice. Stir to mix. Sauté for 2 mins.
+
+Add the rice and stir the mixture. Dry fry for 1 min. Add the broth and coconut milk, stirring to mix, and bring to a low boil.
+
+Reduce heat to Low and simmer for 15-20 mins or until the rice is cooked and liquid is absorbed. Serve as a side dish or top with cooked meats for a delicious meal.
+    </string>
+
+    <string name="nyamaIngredients">12
+ounces peas
+12
+ounces corn
+4
+cups mashed potatoes
+3
+tablespoons butter
+salt and pepper
+3
+lbs beef tenderloin, cubed
+3
+tablespoons olive oil
+6
+tablespoons flour
+2
+cups beef broth</string>
+
+    <string name="nyamaCookingInstructions">Mix together mashed potatoes with corn, peas, butter, salt and pepper.
+Sauté meat in oil until browned.
+Remove steak and add flour to the oil. Make a light brown roux.
+Add beef broth and simmer for 5 minutes.
+Place a mound of potatoes on the plate, cover with steak and gravy.</string>
+
+    <string name="ful_medamesIngredients">
+        2 cans plain fava beans (13 to 15 ounces each can) (see notes if using dry fava beans)
+½ cup water
+Kosher salt
+½ to 1 teaspoon ground cumin
+1 to 2 hot peppers, chopped (jalapenos will work here)
+2 garlic cloves, chopped
+1 large lemon juice of
+Extra virgin olive oil (Early Harvest)
+1 cup chopped parsley
+1 tomato, diced
+To Serve:
+
+Warm pit bread
+Sliced tomatoes
+Sliced cucumbers
+Green onions
+Olives</string>
+
+    <string name="ful_medamesCookingInstructions">In a cast iron skillet or saucepan, add the fava beans and ½ cup water. Warm over medium-high heat. Season with kosher salt and cumin. Use a potato masher or fork to mash the fava beans.
+In a morter and pestle, add the hot peppers and garlic. Smash. Add in juice of one lemon and stir to combine.
+Pour the garlic and hot pepper sauce over the fava beans. Add a generous drizzle of extra virgin olive oil. Top with chopped parsley, diced tomatoes, and a few slices of hot peppers, if you like.
+Serve with pita bread, sliced veggies and olives.</string>
+
+    <string name="potjiekosIngredients">4 tbsp knob of butter or oil
+1 chilli pepper fresh
+3 garlic cloves finely chopped
+500 g pack of fresh mushroom whole
+1 kg stewing beef bone on and cut in chunks
+500 mg sugar beans, red kidney beans, white kidney beans, haricot beans, black-eyed beans pre-soaked overnight
+4 carrots, and other seasonal vegetables of your choice roughly chopped
+12 baby potatoes
+2 tins sweet corn (mealies) creamed
+500 ml beef stock
+50 mixed herbs
+salt
+pepper
+1/2 cup red wine optional</string>
+
+    <string name="potjiekosCookingInstructions">Braise onions and mushrooms in butter and flavoured salt.
+Add chili and garlic and sauté for 2 minutes.
+Add beef, return the lid and let it steam for 5 minutes.
+Add carrots and potatoes and other vegetables. Cover and let it steam for 5 minutes.
+Add beans, sweetcorn, 500 ml beef stock, 50 ml mixed herbs and ½ cup red wine (optional).
+Cover pot and leave to cook for 20 minutes.
+Keep covered and simmer for 1.5 hours, monitoring to ensure that mixture does not dry out.
+Add the fresh mushrooms about 20 minutes before serving.
+</string>
+
+    <string name="pastillaIngredients">4 Pigeons
+3 Onions, chopped
+1tsp Ginger powder
+1tsp Turmeric
+1tsp Cinnamon powder
+2tsp Parsley
+1tsp Coriander Leaf
+250g Butter
+20g Caster Sugar
+1 Cinnamon Stick
+12 strands Saffron
+1tsp Ras el Hanout
+6 Eggs
+6 sheets Filo Pastry
+20g Roasted Almonds, chopped
+15g Flaked Almonds</string>
+
+    <string name="pastillaCookingInstructions">Season the pigeon with salt, pepper, the ginger powder,
+        cinnamon powder and turmeric. Heat a heavy pan and brown the pigeons in a little olive oil.
+        Remove the pigeon from the pan and add the onion along with the rest of the spices, including
+        the caster sugar. Saute this gently for 2-3 minutes before adding 230g butter. Return the pigeon to the pan,
+        put the lid on and let it simmer for 45 mins, until the pigeon is tender. When ready remove the pigeon from the pan
+        and allow it to cool. Beat the eggs, then add them to the pan and scramble them with the onion mixture, then set aside.
+        Remove the pigeon meat from the bones, cut it into small cubes, and then add it to the onion and egg mixture along with the
+        chopped almonds and some chopped fresh coriander. Melt the rest of the butter and brush it all over the pastry sheets.
+        Use 4 buttered sheets for the base of the pastilla, and place the pigeon, egg and onion mixture in the middle.
+        Place another 2 sheets of pastry on the top, then carefully fold the pastry over on the top to form a nice round shape.
+        Bake the pastilla in an oven at 180d for 15 minutes, or until golden brown. Sprinkle the cooked
+        pastilla with icing sugar and cinnamon powder, and garnish with the flaked almonds.</string>
+
+    <string name="nambianIngredients">Spice mixture:
+
+10 ml (2 t) ground cumin
+5 ml (1 t) poppy seeds
+2 ml (½ t) ground fennel
+2 ml (½ t) ground cardamom
+2 ml (½ t) milled black pepper
+2ml (½ t) ground turmeric
+1 ml (¼ t) ground cloves
+Roghan Josh:
+
+1.5 kg boneless venison meat (shoulder or leg)
+15 ml (1 T) butter
+30 ml (2 T) vegetable oil
+1 large onion, chopped
+2 – 3 green or red chilies, deseeded and sliced into thin strips
+6 medium garlic cloves, crushed
+30 ml (2 T) desiccated coconut
+4 cardamom pods, lightly crushed
+400 g tin whole peeled tomatoes, chopped in their juice
+7 ml (1½ t) salt
+5 ml ((½ t) garam masala
+125 ml plain yoghurt
+2 medium potatoes, peeled and chopped (cubes)</string>
+
+    <string name="nambianCookingInstructions">Mix together all the spices.
+Trim the meat of fat and cut into chunks.
+On a medium heat, heat butter and oil in a large saucepan.
+Add onion and fry until glassy. Add the chili, garlic, ginger, coconut, and cardamom.
+Stir in the spice mixture, tomatoes, and salt.
+Cover and simmer gently on a low heat for 1 – 1½ hours, stirring occasionally until the meat is tender. Add the potatoes.
+Sprinkle with garam masala, stir in and cook for 5 minutes more.
+Stir in the yoghurt and heat through.
+Plate and garnish with thyme.
+Serve hot.</string>
+
+<!--    most popular section end-->
+
+<!--    nigerian section-->
+
+    <string name="poundedYamingredients">
+        3 lb Yam
+        Water
+    </string>
+
+    <string name="poundedYamCookingInstructions">
+        Peel the skins off the yams and slice them into about ½ inch thickness.
+Rinse and place the yams in a pot and add enough water to the level of the Yam.
+Cover and cook the yams for about 30 minutes, checking every 10 minutes or thereabout until the yams are fork tender.
+Put the boiled yams inside the food processor and blend, until it becomes smooth with a dough-like consistency.
+Serve with your favorite soup or stew
+    </string>
+
+    <string name="Amalaingredients">
+Equipments
+A large pot – use the pot to boil water until it reaches the rolling boiling point
+Scooping spoon – you need this to serve the food in sizeable portions.
+A spatula – is used to roll and knead the amala into a dough.
+
+
+Ingredients
+2 cups Yam Flour sifted
+4 cups Water
+¼-½ cup extra water or add as needed
+    </string>
+
+    <string name="AmalaCookingInstructions">
+Bring the 4 cups of water to a rolling boil.
+Turn down the heat to medium and stir in the yam flour as quickly as possible to prevent lumps until it becomes doughy.
+Scrape down the sides of the pot, and add a splash of water. Then cover and let it cook for about 4-5 minutes on low to medium heat.
+Stir again and add more water as needed until the amala becomes sticky, light, and elastic.
+Serve with your choice of soup or stew.
+
+        Notes
+While making it, you must keep rolling the amala consistently to get a smooth and lump-free dough.
+The water added to the yam flour should be moderate. If the water is too much, you can add more flour.
+        On the other hand, if the flour is too much, I like to add more hot water
+    </string>
+
+    <string name="ogbonosoupingredients">
+        1-2 pounds meat, oxtail, stew beef, tripe, and kpomo (cow skin)
+▢1 cup smoked fish, shredded
+▢1 cup onion, diced
+▢½ cup ground crayfish
+▢1 tablespoon chicken bouillon, adjust to tastes,
+3 cups greens, chopped (spinach, collards, kale, callaloo-African greens)
+▢¼-⅓ cup palm oil
+▢1 tablespoon red pepper flakes
+▢½ cup ground egusi, optional
+▢½ cup ground ogbono
+▢Salt and pepper, to taste
+    </string>
+
+    <string name="ogbonosoupCookingInstructions">
+        Cooke the Meat and Make Stock
+In a medium-sized saucepan, boil meat and season with salt and pepper until tender (approximately 30-60 minutes depending on the choice of meat). You can shorten this process in half with a pressure cooker.
+Boil the cow skin and tripe together or separately until tender; use your best judgment. Remove cow skin tripe and add to the pot of boiled meat. Then add the smoked fish to the pot if using it.
+Reserve enough stock from the meat (about 3-4 cups).
+Mix ground ogbono with red palm oil, then add to the pot of boiled meat, followed by crayfish and scotch bonnet pepper. Bring to a boil.Then simmer it for 10 minutes or more. Add chicken bouillon or cubes if desired.
+Add more stock or water for the desired thickness. Then add spinach (or other greens), cook for 2-3 minutes more, turn the stove off, and serve piping hot.
+
+    Tips and Notes:
+Mix the ground ogbono with the palm oil to create a smooth paste that dissolves in the stew better.
+To reduce the ogbono’s viscosity, you can fry it before adding it to the soup.
+If using a variety of meats, it’s best to boil each separately because they take different times to cook. And some are pre-cooked. Use your best judgment when cooking and selecting meats.
+Where to find Ogbono Seeds under different aliases (apon, etima, odika, and dika): African Markets, online (Amazon, etc.), ground ogbono seeds also go by the names agbono, apon, etima, dika and odika. They can be hard
+    </string>
+
+</resources>
