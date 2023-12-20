@@ -199,8 +199,10 @@ class addToKitchen : Fragment() {
                             var gnrecipie = database.getReference("recipies")
                             val recipie = gnrecipie.child("generalRecipies")
 
+                            val newRecipeRef = recipie.push()
+
                             newlist.forEachIndexed { index, generalrecipiemodel ->
-                                recipie.child("gnRecipie${index + 1}").setValue(generalrecipiemodel)
+                                newRecipeRef.setValue(generalrecipiemodel)
                                     .addOnCompleteListener {
                                         Toast.makeText(
                                             requireActivity(),
